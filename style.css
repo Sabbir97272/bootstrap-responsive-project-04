@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav001{
+    transition: all .5s;
+}
+
+.nav001:hover{
+    background-color: rgb(175, 169, 169);
+    border-radius: 4px;
+     transition: all .5s;
+}
+
+
+.borcar01{
+    transition: all 0.5s;
+}
+
+.borcar01:hover{
+transform: translate(10px);
+ color: red;
+  transition: all 0.5s;
+
+}
+
+.imgase02{
+    transition: all 0.5s;
+}
+
+.imgase02:hover{
+
+    transform: scale(1.1);
+    transition: all 0.5s;
+}
+
+.borcar012{
+
+    transition: all 0.5s;
+}
+
+.borcar012:hover{
+    transform: scale(0.9);
+    color: rgba(201, 72, 72, 0.979);
+    transition: all 0.5s;
+}
+
+.imgase022{
+    transition: all 0.5s;
+}
+
+.imgase022:hover{
+
+    transform: scale(1.1);
+    transition: all 0.5s;
+}
+
+.brand001{
+     transition: all 0.5s;
+}
+
+.brand001:hover{
+    box-shadow: 2px 2px 5px gray;
+    transform: scale(0.9);
+    transition: all 0.5s;
+}
+
+.topsel01{
+
+     transition: all 0.5s;
+
+}
+
+.topsel01:hover{
+    
+    box-shadow: 2px 2px 5px gray;
+    transform: scale(1.1);
+    transition: all 0.5s;
+    color: brown;
+    border-radius: 7px;
+    
+}
